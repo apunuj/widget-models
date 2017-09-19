@@ -1,0 +1,22 @@
+{
+  "name": "widget-models",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chat-widget.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apunuj/widget-models.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apunuj/widget-models/issues"
+  },
+  "homepage": "https://github.com/apunuj/widget-models#readme",
+  "dependencies": {
+    "mongoose": "^4.11.12"
+  }
+}
